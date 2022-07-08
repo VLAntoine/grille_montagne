@@ -7,11 +7,11 @@ Ce programme vise à produire des grilles réalisables de grilles-montagnes (com
 Le but est de remplir une grille qui se présente sous la forme suivante :
 
    1   2   3   2
-1|   |   |   |   |3
- |---|---|---|---|
-2|   |   |   |   |3
-2|   |   |   |   |1
-3|   |   |   |   |2
+|1|   |   |   |   |3
+|-|---|---|---|---|
+|2|   |   |   |   |3
+|2|   |   |   |   |1
+|3|   |   |   |   |2
    3   2   1   2
 
 Dans l'exemple ci-dessus, on doit y inscrire des nombres de 1 à 4. Pour cela on doit respecter quelques règles :
